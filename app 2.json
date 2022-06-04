@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "BeSportDip",
+    "slug": "Fitness-App-Dip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+   
+   
+    "web": {
+      "favicon": "./assets/splash.png"
+    }
+  }
+}

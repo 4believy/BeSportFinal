@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "besport",
+    "slug": "besport",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "uk.co.besport",
+      "buildNumber": "1.0.0",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "uk.co.besport",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "description": "by Yaroslav Believer"
+  }
+}
